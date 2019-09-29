@@ -1,8 +1,8 @@
-creacion de ddl creacion de tabla
-primer version
+--creacion de ddl creacion de tabla
+--primer version
+-- Autor : Arturo Rojas
 
----
--- segunda version
+-- creacion de tablas
 create table cliente (
 nombre string,
 apelidos string
